@@ -1,5 +1,1 @@
-# Lesson 2: Our first app
 
-## Welcome to lesson 2, where we will make a plot and embed it in a shiny app. 
-Our objectives are to learn about the parts of a shiny app and to build a basic
-understanding of shiny reactivity.
